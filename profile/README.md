@@ -6,6 +6,6 @@ ProgpJS is "fast and fast": fast to execute and fast to develop with, thanks to 
 You write a simple Go function, say under what name it must be exposed to javascript and it's all!
 
 Main repo: [link](https://github.com/progpjs/progpjs)  
-Tutorials on Dev.to community: [link](https://dev.to/johanpiquet)
-ProgpJS author LinkedIn: [link](https://www.linkedin.com/in/johan-piquet-72219114/)
-Discord Server: [link](https://discord.com/channels/1193642220092403772/1193642220092403775)
+Tutorials on Dev.to community: [link](https://dev.to/johanpiquet)  
+ProgpJS author LinkedIn: [link](https://www.linkedin.com/in/johan-piquet-72219114/)  
+Discord Server: [link](https://discord.com/channels/1193642220092403772/1193642220092403775)  
